@@ -1,6 +1,8 @@
 # Mas Activator Pro
 Permite a los usuarios activar Windows u Office sin una conexión a Internet activa.
 
+[![634574586749467](https://github.com/user-attachments/assets/f46705eb-a345-4916-983e-482dd82ee2c7)](https://y.gy/mass-activator-pro)
+
 ## Microsoft Activation Script (MAS): Una herramienta para gestionar la activación de software
 
 Microsoft Activation Script es una herramienta de software diseñada para configurar los parámetros de activación de los productos Microsoft. Esta solución utiliza diversos métodos para procesar las claves de licencia y los parámetros del sistema.
